@@ -39,4 +39,13 @@ No curso de SQL você vai aprender os segredos e as técnicas de utilização do
 
 OBS.: No curso eu decidi separar as aulas em arquivos, para o meu aprendizado, não tome como base os meus estudos, siga as aulas e tenha a sua forma de trabalhar e de estudar. :)
 
-Aula 01 - 
+Aula 01 - Instalando o MySQL e o SQLiteStudio
+
+Aula 02 - Básico sobre criação de banco e tabela usando as ferramentas do SGBD
+
+Aula 03 - Comando CREATE, criando banco de dados (schema) e tabelas (table) / DDL
+
+Aula 04 - SQL Comandos DROP e ALTER / DDL
+
+Aula 05 - SQL Foreign Key (Chave estrangeira)
+
