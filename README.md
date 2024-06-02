@@ -49,3 +49,7 @@ Aula 04 - SQL Comandos DROP e ALTER / DDL
 
 Aula 05 - SQL Foreign Key (Chave estrangeira)
 
+Aula 06 - SQL - Tipos de Dados mais comuns
+
+Aula 07 - Modelo/Diagrama Entidade relacionamento
+
