@@ -55,3 +55,4 @@ Aula 07 - Modelo/Diagrama Entidade relacionamento
 
 Aula 08 - SQL Insert / DML / Inserindo registro nas tabelas do banco de dados
 
+Aula 09 - SQL Insert com Select/ DML / Inserindo multiplos registros nas tabelas
