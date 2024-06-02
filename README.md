@@ -53,3 +53,5 @@ Aula 06 - SQL - Tipos de Dados mais comuns
 
 Aula 07 - Modelo/Diagrama Entidade relacionamento
 
+Aula 08 - SQL Insert / DML / Inserindo registro nas tabelas do banco de dados
+
