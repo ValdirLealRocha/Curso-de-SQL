@@ -59,3 +59,6 @@ Aula 09 - SQL Insert com Select/ DML / Inserindo multiplos registros nas tabelas
 
 Aula 10 - SQL UPDATE / DML / Alterando registros nas tabelas
 
+
+
+Aula 42 - 
